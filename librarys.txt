@@ -1,0 +1,2 @@
+
+npm install express nodemon jsonwebtoken cors swagger-jsdoc swagger-ui-express crypto dotenv
